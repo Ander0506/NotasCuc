@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Notes CUC</string>
+    <string name="notes_cuc">Notes CUC</string>
+
+    <string name="id">Id</string>
+    <string name="name">Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="note1">Note 1</string>
+    <string name="note2">Note 2</string>
+    <string name="note3">Note 3</string>
+    <string name="done">Save Successfull</string>
+
+    <string name="create_student">Create Student</string>
+    <string name="list_student">List Student</string>
+    <string name="list_students">List Students</string>
+    <string name="save">Save</string>
+    <string name="lis_Empty">List Students Empty</string>
+    <string name="detail_student">Detail\' Student</string>
+    <string name="average_note">Final Note</string>
+
+    <string-array name="options">
+        <item>@string/create_student</item>
+        <item>@string/list_student</item>
+    </string-array>
+
+</resources>

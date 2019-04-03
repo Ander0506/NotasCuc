@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notas CUC</string>
+    <string name="notes_cuc">Notas CUC</string>
+    <string name="create_student">Crear Estudiante</string>
+    <string name="list_student">Lista de Estudiantes</string>
+    <string name="id">Cedula</string>
+    <string name="name">Nombre</string>
+    <string name="last_name">Apellido</string>
+    <string name="note1">Nota 1</string>
+    <string name="note2">Nota 2</string>
+    <string name="note3">Nota 3</string>
+    <string name="done">Guardado Exitosamente</string>
+    <string name="list_students">Lista de Estudiantes</string>
+    <string name="save">Guardar</string>
+    <string name="lis_Empty">Lista de Estudiantes Vacia</string>
+    <string name="detail_student">Detalle de Estudiantes</string>
+    <string name="average_note">Nota Final</string>
+</resources>
